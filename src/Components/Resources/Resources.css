@@ -1,0 +1,68 @@
+.roadmaps {
+  margin: 80px auto;
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+
+.card {
+  width: 340px; 
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  color: skyblue;
+}
+/*card image*/
+.card img {
+  width: 100%;
+  height: 180px; 
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Card title */
+.card h3 {
+  margin-top: 16px;
+  font-size: 22px; 
+  color: #222;
+  font-weight: 600;
+}
+
+/* Card description */
+.card p {
+  margin: 12px 0 0;
+  font-size: 16px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.roadmaps-section {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.section-heading {
+  font-size: 33px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.section-subheading {
+  font-size: 19px;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto 40px;
+  line-height: 1.5;
+}
