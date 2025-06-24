@@ -1,16 +1,47 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎯 CareerCompass
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CareerCompass** is a  frontend web application built with React.js that helps students explore curated career resources. It's designed as a practice project to strengthen frontend development skills while creating real-world, useful content.
 
-Currently, two official plugins are available:
+> ✨ A focused learning project to polish your React, CSS, and UI design skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Career-compass
->>>>>>> 04db6540f27f8189d6d392c28f16723066336a47
+- 🎓 Career resource cards (Resume tips, Communication skills, Career roadmap)
+- 🧾 Smooth-scrolling navigation using React Scroll
+- 🗣️ Testimonials slider built with React (without libraries like Swiper)
+- 📨 Contact form ready to integrate with Web3Forms
+- ⚡ Built with Vite.js for blazing-fast performance
+- 🌐 Fully responsive and clean layout
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend:** React.js, HTML5, CSS3 (custom)
+- **Bundler:** Vite
+- **Routing/Navigation:** React Scroll
+
+---
+
+## 📸 Sections Included
+
+- **Hero Section:** Tagline and call to action
+- **About Section:** Brief description and mission
+- **Resources:** Interactive cards for learning paths
+- **Testimonials:** Student feedback slider
+- **Contact Us:** Form with fake email & address placeholder
+- **Footer:** Navigation & social placeholder
+
+---
+
+## 🛠️ Getting Started
+
+### ✅ Clone & Run Locally
+
+```bash
+git clone https://github.com/your-username/CareerCompass.git
+cd CareerCompass
+npm install
+npm run dev
