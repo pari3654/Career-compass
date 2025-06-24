@@ -11,8 +11,6 @@ Link : https://career-com-pass.netlify.app
 - 🧾 Smooth-scrolling navigation using React Scroll
 - 🗣️ Testimonials slider built with React (without libraries like Swiper)
 - 📨 Contact form ready to integrate with Web3Forms
-- ⚡ Built with Vite.js for blazing-fast performance
-- 🌐 Fully responsive and clean layout
 
 ---
 
