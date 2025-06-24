@@ -1,8 +1,6 @@
-# 🎯 CareerCompass
+#  CareerCompass
 
 **CareerCompass** is a  frontend web application built with React.js that helps students explore curated career resources. It's designed as a practice project to strengthen frontend development skills while creating real-world, useful content.
-
-> ✨ A focused learning project to polish your React, CSS, and UI design skills.
 
 ---
 
